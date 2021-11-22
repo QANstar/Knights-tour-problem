@@ -1,0 +1,4 @@
+﻿  马踏棋盘-贪心算法·改.cpp
+D:\Computer Program\C++\控制台开发\马踏棋盘-贪心算法·改\马踏棋盘-贪心算法·改.cpp(81): warning C4715: “SqStack::Pop”: 不是所有的控件路径都返回值
+D:\Computer Program\C++\控制台开发\马踏棋盘-贪心算法·改\马踏棋盘-贪心算法·改.cpp(89): warning C4715: “SqStack::GetTop”: 不是所有的控件路径都返回值
+  马踏棋盘-贪心算法·改.vcxproj -> D:\Computer Program\C++\控制台开发\马踏棋盘-贪心算法·改\Debug\马踏棋盘-贪心算法·改.exe

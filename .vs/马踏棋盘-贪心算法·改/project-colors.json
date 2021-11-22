@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6c96ce94-acf4-4d65-9617-8894e9793683": {
+      "ProjectGuid": "6c96ce94-acf4-4d65-9617-8894e9793683",
+      "DisplayName": "马踏棋盘-贪心算法·改",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
